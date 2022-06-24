@@ -7,13 +7,13 @@
 ########################################################################################################################
 
 PACKAGE_DIR='PLUGIN_e2iplayer/main'
-MY_IPK="enigma2-plugin-extensions-worldcam_4.2_r5_all.ipk"
+MY_IPK="https://github.com/tar1971/PLUGIN_e2iplayer/blob/main/enigma2-plugin-extensions-worldcam_4.2_r5_all.ipk?raw=true"
 ########################################################################################################################
 # Auto ... Do not change
 ########################################################################################################################
 
 # Decide : which package ?
-MY_MAIN_URL="https://raw.githubusercontent.com/PLUGIN_e2iplayer/"
+MY_MAIN_URL="https://github.com/tar1971/PLUGIN_e2iplayer/blob/main/enigma2-plugin-extensions-worldcam_4.2_r5_all.ipk?raw=true"
 if which dpkg > /dev/null 2>&1; then
 	MY_FILE=$MY_DEB
 	MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_DEB
