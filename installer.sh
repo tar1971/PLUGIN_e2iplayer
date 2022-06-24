@@ -11,7 +11,7 @@
 # Plugin	... Enter Manually
 ########################################################################################################################
 
-PACKAGE_DIR='JediMakerXtream/main'
+PACKAGE_DIR='PLUGIN_e2iplayer/main'
 MY_IPK="enigma2-plugin-extensions-worldcam_4.2_r5_all.ipk"
 MY_DEB="enigma2-plugin-extensions-jedimakerxtream_6.18_all.deb"
 
